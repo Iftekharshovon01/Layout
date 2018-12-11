@@ -1,0 +1,32 @@
+.header{
+background-color: red;
+min-height: 100px;
+border: 5px solid black;
+text-align: center;
+}
+.body{
+background-color: blue;
+min-height: 500px;
+border: 5px solid black;
+text-align: center;
+}
+.blog{
+	background-color: orange;
+	min-height: 500px;
+	width: 49%;
+	float: left;
+	border: 5px solid black;
+}
+.contact{
+	background-color: green;
+	min-height: 500px;
+	width: 49%;
+	float: right;
+	border: 5px solid black;
+}
+.footer{
+	background-color: purple;
+	min-height: 100px;
+	border: 5px solid black;
+	text-align: center;
+}
